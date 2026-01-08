@@ -1,16 +1,70 @@
-## Hi there 👋
+# 👋 Hi, I’m Manas
 
-<!--
-**manasmgkar/manasmgkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build things, usually starting from a problem that feels slightly annoying or broken in the real world 🧩
 
-Here are some ideas to get you started:
+While my background is in software engineering, what keeps me interested is using programming as a way to **solve real user problems**, explore trade-offs, and understand what makes a product actually useful.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 Background (brief)
+
+- 💻 Software Engineer at SAP (cloud & AI platforms)
+- 🌐 Google Summer of Code (2x Selected from thousands of applicants)
+- 🤝 Active in open-source communities and student tech programs(used to be a Github Campus expert for my region)
+
+Working on production systems and open-source projects taught me that code is rarely the hardest part — understanding users, constraints, and priorities usually is.
+
+I enjoy the space's where **product decisions shape technical choices**, and technical realities inform product direction.
+
+---
+
+## 🧪 What’s in This GitHub
+
+This profile is a mix of:
+- 🧩 Experiments and prototypes built around specific problems
+- 🤖 AI / ML work with real-world constraints
+- 🛠️ Tools designed to reduce friction for users or developers
+- 📝 Projects that began as questions rather than feature lists
+
+Most of this is learning in public.
+
+---
+
+## 🌱 Interests Lately
+
+- 🗺️ Navigation, maps, and safety-related problems(writing a paper on a better nav algo)
+- ♿ Offline-first AI Applications that are accessibility-aware
+- ⚙️ Practical AI systems under real-world constraints
+
+---
+
+## 🌍 Outside Code
+
+I’ve spent time ideating and visualing solutions for currently existing products(Google Maps being my favourite), organizing hackathons, mentoring, and contributing to open-source communities. I also love Aviation,Sigint,Elint,Logistics and everything in between.  
+Those experiences shaped how I think about **feedback loops, ownership, and long-term product health**.
+
+---
+
+If something here is useful or sparks a conversation, feel free to reach out 🙂
+
+
+## 🎯 What I’m Looking For
+
+I’m actively pursuing **Associate Product Manager roles** where I can:
+- Learn from experienced PMs
+- Own scoped problem areas
+- Work closely with design & engineering
+- Grow into end-to-end product ownership
+
+Long-term goal: build impactful products at scale.
+
+---
+
+## 📬 Let’s Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/)
+- 🤝 Always happy to discuss product ideas, PM journeys, or collaborate
+
+---
+
+> *Learning fast, listening deeply, and shipping thoughtfully.*
