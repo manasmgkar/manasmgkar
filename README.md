@@ -8,7 +8,7 @@ While my background is in software engineering, what keeps me interested is usin
 
 ## 🧠 Background (brief)
 
-- 💻 Software Engineer at SAP (cloud & AI platforms)
+- 💻 Software Engineer at SAP (AirGapped Cloud/Soverign Cloud)
 - 🌐 Google Summer of Code (2x Selected from thousands of applicants)
 - 🤝 Active in open-source communities and student tech programs(used to be a Github Campus expert for my region)
 
