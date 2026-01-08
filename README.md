@@ -62,7 +62,7 @@ Long-term goal: build impactful products at scale.
 
 ## 📬 Let’s Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/manas-mangaonkar-408282201/)
 - 🤝 Always happy to discuss product ideas, PM journeys, or collaborate
 
 ---
