@@ -9,7 +9,7 @@ While my background is in software engineering, what keeps me interested is usin
 ## 🧠 Background (brief)
 -  Aspiring Product Manager
 - 💻 Software Engineer at SAP (AirGapped Cloud/Soverign Cloud)
-- 🌐 Google Summer of Code with fedora and ciru (2x Selected few from ten's of thousands of applicants)
+- 🌐 Google Summer of Code twice with fedora and ciru (Selected from ten's of thousands of applicants)
 - 🤝 Active in open-source communities and student tech programs(used to be a Github Campus expert for my region)
 
 Working on production systems and open-source projects taught me that code is rarely the hardest part — understanding users, constraints, and priorities usually is.
