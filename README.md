@@ -38,6 +38,10 @@ Most of this is learning in public.
 
 ---
 
+## :octocat: My other older GitHub
+
+https://github.com/mm-git01
+
 ## 🌍 Outside Code
 
 I enjoy rethinking existing products  especially—by designing clearer product flows and more intuitive customer journeys than what exists today. Outside of work, I organize hackathons, contribute to open source, and explore interests in aviation, SIGINT/ELINT, and diy'ing electronics. 
