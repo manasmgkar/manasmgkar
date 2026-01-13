@@ -40,8 +40,7 @@ Most of this is learning in public.
 
 ## 🌍 Outside Code
 
-I’ve spent time ideating and visualing solutions for currently existing products(Google Maps being my favourite), organizing hackathons, mentoring, and contributing to open-source communities. I also love Aviation,Sigint,Elint,Logistics and everything in between.  
-Those experiences shaped how I think about **feedback loops, ownership, and long-term product health**.
+I enjoy rethinking existing products  especially—by designing clearer product flows and more intuitive customer journeys than what exists today. Outside of work, I organize hackathons, contribute to open source, and explore interests in aviation, SIGINT/ELINT, and diy'ing electronics. 
 
 ---
 
